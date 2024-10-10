@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TorsOpgUge5.iml" filepath="$PROJECT_DIR$/TorsOpgUge5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opg 1/opg 1.iml" filepath="$PROJECT_DIR$/opg 1/opg 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opg 3/opg 3.iml" filepath="$PROJECT_DIR$/opg 3/opg 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opg2/opg2.iml" filepath="$PROJECT_DIR$/opg2/opg2.iml" />
+    </modules>
+  </component>
+</project>
